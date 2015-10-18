@@ -12,4 +12,6 @@ So here is 'Hello Webpack'. Enjoy.
 npm start
 ```
 
-Then head to http://localhost:3000 in your browser.
+Then head to http://localhost:3000/ in your browser.
+
+
