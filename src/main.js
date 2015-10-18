@@ -1,3 +1,3 @@
 var greet = require('./hello');
 
-console.log(greet('World'));
+console.log(greet('Webpack'));

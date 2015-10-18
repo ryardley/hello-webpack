@@ -1,5 +1,5 @@
 {
-  "name": "simplewebpack",
+  "name": "hello-webpack",
   "version": "0.1.0",
   "description": "",
   "main": "index.js",
