@@ -10,7 +10,8 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^0.1.1",
-    "webpack": "^1.12.2"
+    "webpack": "^1.12.2",
+    "webpack-dev-server": "^1.12.0"
   },
   "dependencies": {
     "express": "^4.13.3"
