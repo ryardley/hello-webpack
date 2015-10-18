@@ -5,3 +5,11 @@ so I needed a basic starter for webpack I could reachfor to test modules in isol
 bringing in way to much cruft.
 
 So here is 'Hello Webpack'. Enjoy.
+
+## Running
+
+```
+npm start
+```
+
+Then head to http://localhost:3000 in your browser.
