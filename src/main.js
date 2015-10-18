@@ -1,3 +1,3 @@
-var greet = require('./hello');
+var greet = require('./greet');
 
 console.log(greet('Webpack'));
